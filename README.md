@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left"></h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/praful-dalwi-23610a233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praful-dalwi-23610a233/" height="30" width="40" /></a>
-  <a href="prafuldalwi1998@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="" style="width:42px;height:42px;"></a>
+  <a href="prafuldalwi1998@gmail.com"><img src="" style="width:42px;height:42px;">Gmail</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
