@@ -11,7 +11,7 @@ prafuldalwi/prafuldalwi is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Praful</h1>
-<img src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" alt="Developer" width="1000" height="500">
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prafuldalwi" alt="prafuldalwi" /></a> </p>
