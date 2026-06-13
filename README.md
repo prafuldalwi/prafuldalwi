@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Praful Dalwi
-- 💼 Frontend Developer with 3+ years of professional experience building scalable and responsive web applications.
+- 💼 Frontend Developer with 2+ years of professional experience building scalable and responsive web applications.
 - 🚀 Currently working as a Software Developer (Frontend Developer) at GTasterix Pvt. Ltd.
 - ⚛️ Specialized in React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Bootstrap, and modern frontend development.
 - 🔥 Experienced in REST API integration, JWT Authentication, GSAP animations, performance optimization, and reusable component architecture.
